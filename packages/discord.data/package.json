@@ -1,9 +1,9 @@
 {
-  "name": "discord.client",
+  "name": "discord.data",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "Stefan Rimaila <stefan@rimaila.fi>",
-  "homepage": "",
+  "homepage": "https://github.com/stuf/discord.bot#readme",
   "license": "ISC",
   "main": "lib/index.js",
   "directories": {
@@ -13,7 +13,14 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuf/discord.bot.git"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/stuf/discord.bot/issues"
   }
 }
